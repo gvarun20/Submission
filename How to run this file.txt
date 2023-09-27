@@ -1,0 +1,1 @@
+I have used Jupyter Notebook to run the code. After satisfying the requirements of the API of Google Translate I have done this code

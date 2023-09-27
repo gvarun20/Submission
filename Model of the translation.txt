@@ -1,0 +1,3 @@
+Combination of statistical machine translation (SMT) and neural machine translation (NMT) models. Google began incorporating neural machine translation models into Google Translate around 2016, significantly improving the quality of translations.
+
+The NMT models are deep learning models that have been trained on vast amounts of multilingual text data to understand and generate translations between languages. They are capable of providing more contextually accurate translations compared to earlier statistical models.
